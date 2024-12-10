@@ -28,7 +28,7 @@ def timetable():
     )
 
     cur = conn.cursor()
-    query = "SELECT * FROM Timetable WHERE level = %s;"  #table name can be diff
+    query = "SELECT course_name, level, day, time FROM Timetable WHERE level = %s;"  #table name can be diff
     cur.execute(query, (level,))
     rows = cur.fetchall()
 
