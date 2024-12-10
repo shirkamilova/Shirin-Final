@@ -66,7 +66,7 @@ VALUES
    - Install the necessary libraries:
      ```bash
      pip3 install --upgrade pip
-     pip3 install flask psycopg2-binary
+     pip3 install flask pg8000 psycopg2-binary
      ```
 
 10. **Set Up Python Virtual Environment**:
