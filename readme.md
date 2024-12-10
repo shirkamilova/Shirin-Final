@@ -161,3 +161,8 @@ Add the following content to index.html:
     Open your web browser and navigate to:
 
 http://<EC2_Public_IP>:8000
+
+![изображение](https://github.com/user-attachments/assets/f21a3785-8673-48ef-8075-7b3a90e14553)
+
+![изображение](https://github.com/user-attachments/assets/92bf8fe7-4941-4b65-a295-a4aba960a9da)
+
